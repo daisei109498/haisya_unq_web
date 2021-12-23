@@ -1,0 +1,104 @@
+.btn_a {
+	width: 60px;
+	height: 38px;
+	background: #FFF;
+	border: 1px solid #2a82a3;
+	border-radius: 70px;
+	-moz-border-radius: 70px;
+	-webkit-border-radius: 70px;
+	color: #2a82a3;
+	padding: 42px 20px 20px;
+	display: block;
+	text-align: center;
+	font-weight: bold;
+	font-size: 120%;
+	transition: background-color 0.5s ease-in;
+	-webkit-transition: background-color 0.5s ease-in;
+}
+.btn_a:hover {
+	background: #2a82a3;
+	color: #FFF;
+	border: 1px solid #FFF;
+}
+
+    .a_button {
+	display: inline-block;
+	border-style: solid;
+	background-color: lightgray;
+	border-width:5px;
+	border-color: lightgray;
+	color: black;
+	font-size: 12pt;
+	text-decoration: none;
+    }
+
+h1 {color:blue; 
+line-height:1.5;
+	}
+
+.dtable_tr{ 
+display: table;
+width:350px; /* ブロックレベル要素全体の幅 */
+ } 
+
+.dtable_tr_h{ 
+display: table;
+font-size: 12pt;
+width:350px; /* ブロックレベル要素全体の幅 */
+ } 
+
+ .dtable_c_line_no{  
+border: 1px solid #999;
+display: table-cell;
+text-align:left;
+width: 10px;
+ } 
+
+ .dtable_c_todoke{  
+border: 1px solid #999;
+display: table-cell;
+text-align:left;
+width: 350px;
+ } 
+
+ .dtable_c_kanryo1{  
+border: 1px solid #999;
+display: table-cell;
+text-align:center;
+width: 300px;
+HEIGHT: 30px;
+font-size: 15px;
+background-color: skyblue;
+padding-top:5px;
+ }
+
+ .dtable_c_kanryo0{  
+border: 1px solid #999;
+display: table-cell;
+text-align:center;
+width: 300px;
+HEIGHT: 30px;
+font-size: 15px;
+background-color: #aaa;
+padding-top:5px;
+ }
+ .dtable_c_button{  
+border: none;
+display: table-cell;
+text-align:left;
+width: 100px;
+ }
+ .dtable_c_button2{  
+border: none;
+display: table-cell;
+text-align:left;
+width: 100px;
+ } 
+
+ .dtable_c_time{  
+border: none;
+display: table-cell;
+text-align:left;
+width: 300px;
+ } 
+
